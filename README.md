@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gfergusonQA
 - 👀 I’m interested in showcasing my mobile automation skills.
-- 🌱 I’m currently learning more Python, Django Framework, GoLang, and more
+- 🌱 I’m currently learning more Python, C++, HTML, and more!
 - 💞️ I’m looking to collaborate on automation projects!
 
 <!---
