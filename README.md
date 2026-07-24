@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @gfergusonQA
-- Formerly a Senior QA Engineer at Mercari US for over 4 years, and over 6 years with the same company. Also a Computer Science BS undergrad at PCC/PSU with expected graduation in Spring 2027. I obtained my Associate of Science degree this year, Spring 2025 from PCC, Portland Community College with a 3.6 GPA.
+# 👋 Hi, I'm Gina (@gfergusonQA)
 
-- Some things you will find in my repo are projects from various programming courses... 
+I'm a Computer Science student, former software QA engineer, and lifelong believer that technology should be accessible—not only to use, but also to understand and create.
+
+I'm fascinated by the intersection of software and hardware, with interests spanning software engineering, digital logic design, computer architecture, hardware verification, open-source EDA, and systems programming. I enjoy exploring how complex engineering workflows can be made more approachable through better tooling, clearer documentation, thoughtful design, and automation.
+
+Here you'll find a collection of coursework, research, and personal projects covering topics such as:
+
+* Software Engineering & Test Automation
+* Algorithms & Data Structures
+* Systems Programming
+* Computer Architecture
+* Digital Logic Design
+* Verilog & RTL Development
+* Hardware Verification & Simulation
+* ASIC Design Flows & Open-Source EDA
+* Developer Tools & Engineering Workflows
+
+Whether I'm testing software, designing digital circuits, or building developer tools, my goal is the same: create technology that is reliable, understandable, and accessible to more people.
 
 <!---
 gfergusonQA/gfergusonQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
