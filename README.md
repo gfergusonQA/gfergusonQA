@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gina (@gfergusonQA)
 
-I'm a Computer Science student, former software QA engineer, and lifelong believer that technology should be accessible—not only to use, but also to understand and create.
+I'm a Computer Science student, former software QA engineer, and lifelong believer that technology should be accessible... not only to use, but also to understand and create.
 
 I'm fascinated by the intersection of software and hardware, with interests spanning software engineering, digital logic design, computer architecture, hardware verification, open-source EDA, and systems programming. I enjoy exploring how complex engineering workflows can be made more approachable through better tooling, clearer documentation, thoughtful design, and automation.
 
